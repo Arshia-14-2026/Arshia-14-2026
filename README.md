@@ -21,3 +21,10 @@
 🐍 MY CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/Arshia-14-2026/Arshia-14-2026/output/github-snake-dark.svg" width="100%"/><br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,50:4B0082,100:090014&height=120&section=footer"/></div>
+
+
+<h2 align="center">👾 PAC-MAN CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arshia-14-2026/Arshia-14-2026/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph">
+</p>
